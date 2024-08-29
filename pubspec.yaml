@@ -1,6 +1,6 @@
 name: visual_detector_ai
-description: "A Flutter package that uses AI to detect and identify objects in images."
-version: 1.0.0
+description: "A Flutter package that uses AI to detect and identify object in images."
+version: 1.0.1
 homepage: https://github.com/ibragimov05/visual_detector_ai
 
 environment:

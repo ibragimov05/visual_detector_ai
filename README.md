@@ -106,7 +106,8 @@ Enum for supported response languages:
 * russian
 * spanish
 * french
-  Error Handling:
+  
+Error Handling:
 
 The analyzeImage method will throw an error if the analysis fails. Ensure to handle exceptions as needed.
 

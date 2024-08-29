@@ -61,7 +61,7 @@ class VisualDetectorAi {
       ];
 
       final GenerateContentResponse response =
-      await model.generateContent(content);
+          await model.generateContent(content);
 
       if (response.text == null) {
         throw 'Could not find summary';

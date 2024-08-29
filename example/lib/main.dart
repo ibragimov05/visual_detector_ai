@@ -4,10 +4,10 @@ import 'package:flutter/material.dart';
 import 'package:visual_detector_ai/visual_detector_ai.dart';
 
 void main() => runApp(
-  const MaterialApp(
-    home: VisionDetectorAiExample(),
-  ),
-);
+      const MaterialApp(
+        home: VisionDetectorAiExample(),
+      ),
+    );
 
 class VisionDetectorAiExample extends StatefulWidget {
   const VisionDetectorAiExample({super.key});

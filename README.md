@@ -26,7 +26,7 @@ Obtain API Key:
 
 To use the Google Generative AI API, you need an API key. You can obtain one by following these steps:
 
-Go to Google AI Studio.
+Go to [Google AI Studio](https://aistudio.google.com/).
 Sign in with your Google account or create a new one if you don't have an account.
 Follow the instructions to create a new project and generate an API key.
 Copy your API key and keep it secure.
@@ -106,7 +106,7 @@ Enum for supported response languages:
 * russian
 * spanish
 * french
-  
+
 Error Handling:
 
 The analyzeImage method will throw an error if the analysis fails. Ensure to handle exceptions as needed.
